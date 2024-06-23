@@ -1,0 +1,2 @@
+std_id,std_name,
+INT,VARCHAR(255),
